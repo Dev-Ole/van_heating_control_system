@@ -15,9 +15,9 @@
 
 // Blynk App*******************************************************************
 /* Fill-in information from Blynk Device Info here */
-#define BLYNK_TEMPLATE_ID   "TMPL522N__o9-"
-#define BLYNK_TEMPLATE_NAME "MatixCar Heater"
-#define BLYNK_AUTH_TOKEN    "aPsLY1cMHVdemYdgPXq9OGMBg8rehlsY"
+#define BLYNK_TEMPLATE_ID   "SECRET"
+#define BLYNK_TEMPLATE_NAME "SECRET"
+#define BLYNK_AUTH_TOKEN    "SECRET"
 #define BLYNK_PRINT Serial
 #define W5100_CS  10
 #define SDCARD_CS 4
