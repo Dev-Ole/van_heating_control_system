@@ -1,4 +1,4 @@
-This project solves the problem of common diesel heaters that do not have a regulation to turn off, once your desired temperature has reached. Instead, the device continues to run at a minimum level until it is shut down manually.
+This  Arduino project solves the problem of common diesel heaters that do not have a regulation to turn off, once your desired temperature has reached. Instead, the device continues to run at a minimum level until it is shut down manually.
 
 Thanks to the Blynk library which makes it simple to bring your data from an Arduino single-board computer to a web app.
 You can design your own GUI and display the data like the temperature of different sensors. Also, it's possible to send a signal. In my case start and stop the heater manually from the remote.
